@@ -68,8 +68,8 @@ db.createUser(
 )
 ```
 
-- Tick `authorization: enabled`
-- Allow your IP address <https://www.howtoforge.com/tutorial/ufw-uncomplicated-firewall-on-ubuntu-15-04/#deleting-a-ufw-firewall-rule>
+- `nano /etc/mongod.conf`, enable `security:`, and add `authorization: enabled`
+- Allow your IP address on `ufw` <https://www.howtoforge.com/tutorial/install-mongodb-on-ubuntu/>
 	- If you use WiFi, or something that IP address varies, you might consider "Allow from anywhere"
 
 That's it. Now you can login to MongoDB from outside via `mongodb://USERNAME:PASSWORD@SERVER_IP_ADDRESS:27017/test`
