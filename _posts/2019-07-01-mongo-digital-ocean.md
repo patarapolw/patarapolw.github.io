@@ -5,8 +5,6 @@ title: "Hosting MongoDB version 4 server on DigitalOcean"
 
 My gripe comes from the limitation with free tier and lower tiers of MongoDB Atlas. ([Where can I host MongoDB with allowDiskUse=true?](https://www.quora.com/unanswered/Where-can-I-host-MongoDB-with-allowDiskUse-true)) So, I have decided to host my own MongoDB on DigitalOcean.
 
-<!--more-->
-
 # Setting up a droplet and installing MongoDB
 
 So, this is the only relatively easy part. It can be installed with either
