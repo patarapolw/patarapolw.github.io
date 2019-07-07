@@ -27,7 +27,7 @@ Installing Linux is never hard on Windows, with supported hardwares, e.g. Dell, 
     - Support for proprietary drivers
     - New enough to install as many proprietary drivers as possible
 
-For this, I have to vote for Ubuntu-based distros, in which somehow [Elementary OS](https://elementary.io/) (late 2018) seems to have better drivers than Ubuntu 19.04 at the time of writing. Also, user experience (UX) is subjectively better as welll.
+For this, I have to vote for Ubuntu-based distros, in which somehow [Elementary OS](https://elementary.io/) (Oct 2018) seems to have better drivers than Ubuntu 19.04 at the time of writing. Also, user experience (UX) is subjectively better as welll.
 
 So, the answer is [Elementary OS](https://elementary.io/)
 
@@ -35,4 +35,4 @@ So, the answer is [Elementary OS](https://elementary.io/)
 # What is still impossible
 
 - Single install Linux on the main harddisk.
-- Installing Linux other than [Elementary OS](https://elementary.io/) on my MacBook Air 11" (2015).
+- Installing Linux other than [Elementary OS](https://elementary.io/) on my MacBook Air 11" (2015). Even Ubuntu does not detect the main harddisk.

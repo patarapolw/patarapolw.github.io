@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Additional features of GitHub Pages blog"
+title: "Additional features for GitHub Pages blog"
 tag: [jekyll, disqus]
 ---
 
