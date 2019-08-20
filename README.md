@@ -1,3 +1,3 @@
-Powered by [Jekyll](https://jekyllrb.com/)
+# patarapolw.github.io
 
-See [/_posts/2019-07-04-jekyll-github.md](/_posts/2019-07-04-jekyll-github.md)
+Apparently, My homepage and blog is located at <https://polvcode.dev>
