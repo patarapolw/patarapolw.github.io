@@ -14,7 +14,7 @@ v-app
       v-list-item(to="/md/other-sites")
         v-list-item-content
           v-list-item-title Other Websites
-      v-list-item(href="https://polvcode.dev")
+      v-list-item(href="https://patarapolw.github.io/blog" target="_blank")
         v-list-item-content
           v-list-item-title Blog
   v-app-bar(app collapse)
