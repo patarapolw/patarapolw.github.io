@@ -1,3 +1,5 @@
 # patarapolw.github.io
 
-Apparently, My homepage and blog is located at <https://polvcode.dev>
+I have moved my blog to <https://patarapolw.github.io/blog>.
+
+My homepage and blog used to be <https://polvcode.dev>, though.
